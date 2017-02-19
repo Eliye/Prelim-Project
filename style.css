@@ -3,7 +3,7 @@ body {
     border: 0px;
     padding-top: 0px;
     font-family: 'Open Sans', sans-serif;
-    color: yellow;
+    color: #6a737b;
     font-size: 13px;
   
 }
@@ -15,7 +15,7 @@ p {
 h1 {
     font-family: sans-serif;
     text-align: center;
-    color: #4A4444;
+    color: orangered;
     font-size: 40px;
     margin: 0;
 }
@@ -63,7 +63,7 @@ h3 {
 .navbar {
     width: 100%;
     height: 55px;
-    background-color: #ac3939;
+    background-color: yellowgreen;
     color: #ffffff;
     position: fixed;
     top: 0px;
@@ -162,7 +162,7 @@ h3 {
     float: right;
     padding: 20px 20px 20px 20px;
     border-radius: 30px 0 30px 0;
-    background-color: #0a1429;
+    background-color: deepskyblue;
 }
 .rightcon1 p {
     font-size: 18pt;
@@ -455,7 +455,7 @@ img:nth-child(2) {
     overflow: hidden;
 }
 .slide3 img {
-    width: 75%;
+    width: 60%;
     height: 100%;
     margin: auto;
     position: absolute;
@@ -562,7 +562,7 @@ img:nth-child(2) {
 .content6 {
     width: 100%;
     height: 350px;
-    background-color: #ac3939;
+    background-color: yellowgreen;
     color: #ffffff;
     top: 0px;
     opacity: 0.8;
