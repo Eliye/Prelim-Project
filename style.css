@@ -1,3 +1,6 @@
+body, a:hover {
+    cursor: url(cursor.cur), progress !important;
+        }
 body {
     margin: 0px;
     border: 0px;
@@ -5,7 +8,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #6a737b;
     font-size: 13px;
-  
 }
 
 p {
@@ -136,6 +138,10 @@ h3 {
 .content1 h1{
     font-family: Font2;
     font-size:80px;
+    border-radius: 0 0 10px 0;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: yellow;
 }
 
 .content1 h3 {
@@ -228,6 +234,10 @@ img:nth-child(1) {
 .content3 h1{
     font-family: Font2;
     font-size: 80px;
+    border-radius: 0 0 10px 0;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: gold;
 }
 
 .content3 h3{
@@ -247,11 +257,11 @@ img:nth-child(1) {
     height: 320px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 0 0 50px 0;
-    background-color: #0a1429;
+    border-radius: 50px 50px 50px 50px;
+    background-color: skyblue;
 }
 .con3a {
-    width: 45%;
+    width: 50%;
 }
 .con3b {
     width: 50%;
@@ -262,14 +272,15 @@ img:nth-child(1) {
     margin-right: auto;
 }
 .container3 img {
-    width: 100%;
-    border-radius: 0 0 35px 0;
-    
+    border-radius: 50%;
+    height: 250px;
+    width: 450px;
 }
 
 .container3 img:hover{
     opacity: 0.6;
-    width:70%;
+    width: 90%;
+    height: 75%;
     transition: 0.5s ease-in-out;
 }
 
@@ -344,8 +355,12 @@ img:nth-child(2) {
     margin-right: auto;
 }
 .content4 h1{
-     font-family: Font2;
+    font-family: Font2;
     font-size: 80px;
+    border-radius: 0 0 10px 0;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: gold;
 }
 .container4 {
     padding: 20px 20px 20px 20px;
@@ -496,6 +511,10 @@ img:nth-child(2) {
 .content5 h1{
     font-family: Font2;
     font-size: 50px;
+    border-radius: 0 0 10px 0;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: gold;
 }
 .container5 {
     width: 100%;
